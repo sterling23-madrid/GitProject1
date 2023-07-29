@@ -6,7 +6,7 @@ public class DemoDay5 {
 	}
 
 	public static void getData (){
-		system.out.println("today");
+		System.out.println("today");
 
 	}
 }
