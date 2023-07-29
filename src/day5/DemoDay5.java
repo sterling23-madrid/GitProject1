@@ -5,4 +5,8 @@ public class DemoDay5 {
 		System.out.println("Today is sunny......");
 	}
 
+	public static void getData (){
+		system.out.println("today");
+
+	}
 }
