@@ -34,4 +34,5 @@ public class DemoDay2 {
 //add method
 	public static void divide (double a, double b) {
 		System.out.println(a+b);
+	}
 }
